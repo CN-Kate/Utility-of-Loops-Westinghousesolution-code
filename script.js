@@ -1,5 +1,7 @@
 
 
+
+
 let students = ["Damien", "Kayla", "Manny", "Sariyah", "Yahaida", "Alexandra", "Jasmine", "Jeremy", "Angel", "Aaron"]
 
 // INSTRUCTIONS: Below this line, use array index positions and bracket notation to print EACH of the 10 names in the students array above to the console. 
